@@ -32,6 +32,7 @@ public class ViewSecond extends AppCompatActivity {
     Button second,back;
     RadioGroup opt;
     RadioButton selectedOption;
+//the function starting from here
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
