@@ -81,27 +81,27 @@
                     android:textSize="20dp"
                     android:text="Dyspraxia"
                     android:textColor="#fff" />
-                <RadioButton
-                    android:id="@+id/option3"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:textSize="20dp"
-                    android:text="ADHD/ADD"
-                    android:textColor="#fff" />
-                <RadioButton
-                    android:id="@+id/option4"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:textSize="20dp"
-                    android:text="Autism"
-                    android:textColor="#fff" />
-                <RadioButton
-                    android:id="@+id/option5"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:textSize="20dp"
-                    android:text="No"
-                    android:textColor="#fff" />
+<!--                <RadioButton-->
+<!--                    android:id="@+id/option3"-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:textSize="20dp"-->
+<!--                    android:text="ADHD/ADD"-->
+<!--                    android:textColor="#fff" />-->
+<!--                <RadioButton-->
+<!--                    android:id="@+id/option4"-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:textSize="20dp"-->
+<!--                    android:text="Autism"-->
+<!--                    android:textColor="#fff" />-->
+<!--                <RadioButton-->
+<!--                    android:id="@+id/option5"-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:textSize="20dp"-->
+<!--                    android:text="No"-->
+<!--                    android:textColor="#fff" />-->
 
             </RadioGroup>
 
